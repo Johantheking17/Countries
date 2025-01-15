@@ -4,6 +4,12 @@ import javax.swing.*;
 import java.util.*;
 import java.io.*;
 
+//
+//  Class author:  John Taylor
+//  Date created:  1/14/25
+//  General description: This has the essential functions like showing the map and locations and creates the data for the various countries for the user
+//
+
 public class Main 
 {
 

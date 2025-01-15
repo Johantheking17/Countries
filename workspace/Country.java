@@ -1,3 +1,11 @@
+//
+//  Class author:  John Taylor
+//  Date created:  1/14/25
+//  General description: this provides the framework to create data for countries on the map
+//
+
+
+
 public class Country
 {
   // add private instance variables for the name, capital, language, and image file.
